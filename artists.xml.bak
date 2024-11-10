@@ -743,5 +743,37 @@
         <urlPhoto>https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Ed_Sheeran-6886_%28cropped%29.jpg/1200px-Ed_Sheeran-6886_%28cropped%29.jpg</urlPhoto>
         <genre>Pop</genre>
         <urlMerchStore>https://www.edsheeran.com/</urlMerchStore>
+	<biography>
+        Ed Sheeran is an English singer-songwriter and musician known for his heartfelt lyrics and acoustic style, combining elements of pop, folk, and R&B. Born in Halifax, West Yorkshire, Sheeran began his career by releasing independent EPs and performing in small venues. He gained international fame with his debut album, *+ (Plus)*, in 2011, featuring hits like "The A Team" and "Lego House." His subsequent albums, *x (Multiply)* (2014), *÷ (Divide)* (2017), and *= (Equals)* (2021), solidified his place as one of the best-selling music artists in the world, with hits such as "Shape of You," "Thinking Out Loud," and "Perfect." Sheeran's honest storytelling, emotive songwriting, and dynamic live performances have earned him multiple awards, including several Grammy Awards. Known for his use of a loop pedal in live performances, he has captivated audiences globally, maintaining a unique place in modern pop music.
+	</biography>
+		<funfacts>
+			<fact>Ed Sheeran’s album *÷ (Divide)* became the fastest-selling album by a male artist in the UK, with singles like "Shape of You" topping charts worldwide.</fact>
+			<fact>Sheeran's song "Thinking Out Loud" won the Grammy for Song of the Year in 2016 and has since become a popular wedding song.</fact>
+			<fact>Ed Sheeran famously uses a loop pedal during his live shows, creating multiple layers of sound without a full backing band.</fact>
+			<fact>He was named Spotify’s most-streamed artist of the 2010s decade, with "Shape of You" becoming one of the platform’s most-streamed songs ever.</fact>
+			<fact>Ed Sheeran is close friends with singer-songwriter Taylor Swift and has collaborated with her on several projects, including the song "Everything Has Changed."</fact>
+		</funfacts>
+		<socials>
+			<social platform="Instagram" url="https://www.instagram.com/teddysphotos/" />
+			<social platform="Twitter" url="https://twitter.com/edsheeran" />
+			<social platform="YouTube" url="https://www.youtube.com/user/edsheeran" />
+			<social platform="Facebook" url="https://www.facebook.com/EdSheeranMusic" />
+			<social platform="TikTok" url="https://www.tiktok.com/@edsheeran" />
+		</socials>
+		<popularity>
+			<Entry month="January" value="95" />
+			<Entry month="February" value="92" />
+			<Entry month="March" value="93" />
+			<Entry month="April" value="90" />
+			<Entry month="May" value="96" />
+			<Entry month="June" value="89" />
+			<Entry month="July" value="94" />
+			<Entry month="August" value="92" />
+			<Entry month="September" value="91" />
+			<Entry month="October" value="94" />
+			<Entry month="November" value="96" />
+			<Entry month="December" value="97" />
+		</popularity>
+		<rating>4.8</rating>
     </Artist>
 </Artists>
