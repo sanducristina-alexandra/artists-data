@@ -1,0 +1,759 @@
+<Artists>
+    <Artist>
+        <id>1</id>
+        <name>Taylor Swift</name>
+        <urlPhoto>https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Taylor_Swift_at_the_Golden_Globes_2024_%28Enhanced%2C_cropped%29.jpg/1200px-Taylor_Swift_at_the_Golden_Globes_2024_%28Enhanced%2C_cropped%29.jpg</urlPhoto>
+        <genre>Pop</genre>
+        <urlMerchStore>https://www.taylorswift.com/</urlMerchStore>
+		<biography>Taylor Swift is an American singer-songwriter who is known for her narrative songwriting, which often draws from her personal life. She was born on December 13, 1989, in Reading, Pennsylvania. Swift first gained fame in the country music scene with her self-titled debut album in 2006. Since then, she has transitioned to pop, rock, and indie genres, with albums such as *1989*, *Reputation*, *Folklore*, and *Evermore*. Swift has won numerous awards, including 11 Grammy Awards, and is known for her philanthropic efforts and advocacy for social causes.</biography>
+		<funfacts>
+			<fact>She made her first appearance on the Billboard Hot 100 at the age of 16 with the song "Tim McGraw".</fact>
+			<fact>She is the first woman to win the Grammy for Album of the Year three times.</fact>
+			<fact>Her song "You Belong With Me" was nominated for an MTV Video Music Award in 2009, where she had the famous interaction with Kanye West.</fact>
+			<fact>She is known for secretly inserting "Easter eggs" and hidden messages in her music videos and albums.</fact>
+			<fact>Swift is an advocate for women's rights, LGBTQ+ rights, and education for underprivileged children.</fact>
+		</funfacts>
+		<socials>
+			<social platform="Instagram" url="https://www.instagram.com/taylorswift/" />
+			<social platform="Twitter" url="https://twitter.com/taylorswift13" />
+			<social platform="YouTube" url="https://www.youtube.com/user/taylorswift" />
+			<social platform="Facebook" url="https://www.facebook.com/TaylorSwift" />
+			<social platform="TikTok" url="https://www.tiktok.com/@taylorswift" />
+		</socials>
+		<popularity>
+			<Entry month="January" value="85" />
+			<Entry month="February" value="87" />
+			<Entry month="March" value="90" />
+			<Entry month="April" value="92" />
+			<Entry month="May" value="91" />
+			<Entry month="June" value="93" />
+			<Entry month="July" value="94" />
+			<Entry month="August" value="95" />
+			<Entry month="September" value="93" />
+			<Entry month="October" value="95" />
+			<Entry month="November" value="96" />
+			<Entry month="December" value="98" />
+		</popularity>
+    </Artist>
+    <Artist>
+        <id>2</id>
+        <name>Imagine Dragons</name>
+        <urlPhoto>https://yt3.googleusercontent.com/1DTGWKanZjHTM_N9ieyxm2np0Dtk7gTDOXBKHuGlMEbvgmi5Mv-A47rJApN1dRBC_JEyXazBkQ=s900-c-k-c0x00ffffff-no-rj</urlPhoto>
+        <genre>Rock</genre>
+        <urlMerchStore>https://shop.imaginedragonsmusic.com/</urlMerchStore>
+		<biography>
+        Imagine Dragons is an American rock band that originated in Las Vegas, Nevada. Formed in 2008, the band gained international fame with their breakthrough single "It's Time" in 2012. Their debut album *Night Visions* was a massive success, with the hit single "Radioactive" becoming one of the most-played rock songs of all time. Known for their energetic performances and blend of rock, pop, and electronic elements, the band's discography includes albums such as *Smoke + Mirrors*, *Evolve*, and *Origins*. Imagine Dragons has won multiple awards, including Grammy Awards, American Music Awards, and Billboard Music Awards.
+		</biography>
+		<funfacts>
+			<fact>The band’s name, "Imagine Dragons," is an anagram. The letters in the name stand for words known only to the band members.</fact>
+			<fact>"Radioactive" from their debut album *Night Visions* was the longest-charting rock song on the Billboard Hot 100, staying on the chart for 87 weeks.</fact>
+			<fact>The band is known for its charitable efforts, supporting causes like mental health awareness and anti-bullying campaigns.</fact>
+			<fact>Imagine Dragons performed at the 2014 Billboard Music Awards and debuted their hit song "Demons" live for the first time.</fact>
+			<fact>Lead singer Dan Reynolds was diagnosed with an autoimmune disorder called Ankylosing Spondylitis, which he has openly talked about to raise awareness for the condition.</fact>
+		</funfacts>
+		<socials>
+			<social platform="Instagram" url="https://www.instagram.com/imagine_dragons/" />
+			<social platform="Twitter" url="https://twitter.com/Imaginedragons" />
+			<social platform="YouTube" url="https://www.youtube.com/user/ImagineDragons" />
+			<social platform="Facebook" url="https://www.facebook.com/ImagineDragons" />
+			<social platform="TikTok" url="https://www.tiktok.com/@imaginedragons" />
+		</socials>
+		<popularity>
+			<Entry month="January" value="80" />
+			<Entry month="February" value="82" />
+			<Entry month="March" value="85" />
+			<Entry month="April" value="88" />
+			<Entry month="May" value="86" />
+			<Entry month="June" value="89" />
+			<Entry month="July" value="91" />
+			<Entry month="August" value="92" />
+			<Entry month="September" value="90" />
+			<Entry month="October" value="91" />
+			<Entry month="November" value="93" />
+			<Entry month="December" value="94" />
+		</popularity>
+    </Artist>
+    <Artist>
+        <id>3</id>
+        <name>BTS</name>
+        <urlPhoto>https://i.pinimg.com/564x/45/8b/f3/458bf3789bbaac52d2f9fa0cee658054.jpg</urlPhoto>
+        <genre>K-Pop</genre>
+        <urlMerchStore>https://ibighit.com/bts/eng/</urlMerchStore>
+		<biography>
+        BTS, also known as Bangtan Sonyeondan, is a South Korean boy band formed by BigHit Entertainment in 2013. The group consists of seven members: RM, Jin, Suga, J-Hope, Jimin, V, and Jungkook. BTS initially started as a hip hop group but later gained global recognition for their versatile music style that incorporates pop, hip hop, R&B, and EDM. The band has achieved massive international success, breaking numerous records, including being the first K-pop group to top the Billboard Hot 100. Known for their powerful messages of self-love, mental health awareness, and social issues, BTS has become a cultural phenomenon and has a large global fanbase, known as "ARMY."
+		</biography>
+		<funfacts>
+			<fact>BTS is the first K-pop group to win a Billboard Music Award for Top Social Artist.</fact>
+			<fact>The members of BTS are heavily involved in the creation of their music, with RM and Suga often contributing to the songwriting and production of their albums.</fact>
+			<fact>BTS has spoken at the United Nations twice, addressing young people on the topics of self-empowerment and the importance of speaking up.</fact>
+			<fact>The band holds several Guinness World Records, including most-viewed YouTube video in 24 hours for their song "Butter."</fact>
+			<fact>Each BTS member has a unique personality and is highly skilled in various areas, such as dancing, singing, and producing music.</fact>
+		</funfacts>
+		<socials>
+			<social platform="Instagram" url="https://www.instagram.com/bts.bighitofficial/" />
+			<social platform="Twitter" url="https://twitter.com/BTS_twt" />
+			<social platform="YouTube" url="https://www.youtube.com/c/BANGTANTV" />
+			<social platform="Facebook" url="https://www.facebook.com/BTS" />
+			<social platform="TikTok" url="https://www.tiktok.com/@bts_official_bighit" />
+		</socials>
+		<popularity>
+			<Entry month="January" value="95" />
+			<Entry month="February" value="96" />
+			<Entry month="March" value="97" />
+			<Entry month="April" value="98" />
+			<Entry month="May" value="69" />
+			<Entry month="June" value="100" />
+			<Entry month="July" value="79" />
+			<Entry month="August" value="88" />
+			<Entry month="September" value="97" />
+			<Entry month="October" value="89" />
+			<Entry month="November" value="100" />
+			<Entry month="December" value="100" />
+		</popularity>
+    </Artist>
+    <Artist>
+        <id>4</id>
+        <name>Louis Armstrong</name>
+        <urlPhoto>https://th-thumbnailer.cdn-si-edu.com/XhWFbXUu9T3O-8qP9JfqO003LTY=/fit-in/1072x0/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer/f9/a9/f9a9155c-a028-4b0d-b34f-1ab907acb538/finallouisweb.jpg</urlPhoto>
+        <genre>Jazz</genre>
+        <urlMerchStore>https://www.louisarmstronghouse.org/biography/</urlMerchStore>
+		<biography>
+        Louis Armstrong, also known as "Satchmo," was an American jazz trumpeter, composer, and vocalist who became one of the most influential figures in the history of jazz music. Born on August 4, 1901, in New Orleans, Armstrong revolutionized the way jazz was played, known for his virtuosic trumpet playing and charismatic stage presence. His most famous works include songs like "What a Wonderful World," "La Vie En Rose," and "When the Saints Go Marching In." Armstrong's innovations in improvisation and his unique voice helped shape the development of jazz and made him an international star. He remains one of the most celebrated figures in American music history.
+		</biography>
+		<funfacts>
+			<fact>Louis Armstrong was an early pioneer of scat singing, a vocal style that uses nonsensical syllables in jazz music.</fact>
+			<fact>He started playing the cornet while serving a sentence in a home for troubled boys, where he learned to read music.</fact>
+			<fact>Armstrong was the first African-American man to host a national radio show, "The Louis Armstrong Show," in the 1930s.</fact>
+			<fact>He was awarded the Grammy Lifetime Achievement Award in 1972 and remains one of the best-selling artists of all time.</fact>
+			<fact>Armstrong was also an accomplished actor, appearing in several films including *High Society* (1956) alongside Bing Crosby and Frank Sinatra.</fact>
+		</funfacts>
+		<socials>
+			<social platform="Instagram" url="https://www.instagram.com/louisarmstrongmusic/" />
+			<social platform="Twitter" url="https://twitter.com/louisarmstrong" />
+			<social platform="YouTube" url="https://www.youtube.com/channel/UCwqY2OCXs9KgtU5rgHHxoEg" />
+			<social platform="Facebook" url="https://www.facebook.com/LouisArmstrong" />
+		</socials>
+		<popularity>
+			<Entry month="January" value="87" />
+				<Entry month="February" value="88" />
+			<Entry month="March" value="69" />
+			<Entry month="April" value="90" />
+			<Entry month="May" value="81" />
+			<Entry month="June" value="92" />
+			<Entry month="July" value="93" />
+			<Entry month="August" value="94" />
+			<Entry month="September" value="83" />
+			<Entry month="October" value="72" />
+			<Entry month="November" value="91" />
+			<Entry month="December" value="90" />
+		</popularity>
+    </Artist>
+    <Artist>
+        <id>5</id>
+        <name>Billie Eilish</name>
+        <urlPhoto>https://media.vogue.co.uk/photos/609be9483a19779128a1509b/1:1/w_2000,h_2000,c_limit/Billie-Eilish-Happier-Than-Ever.jpeg</urlPhoto>
+        <genre>Pop</genre>
+        <urlMerchStore>https://store.billieeilish.com/</urlMerchStore>
+		<biography>
+        Billie Eilish is an American singer and songwriter who first gained attention with her debut single "Ocean Eyes" in 2015, which went viral on SoundCloud. Born on December 18, 2001, in Los Angeles, California, she quickly rose to stardom with her unique blend of electropop, indie pop, and alternative music. Her debut album, *When We All Fall Asleep, Where Do We Go?* (2019), received widespread acclaim and earned her multiple Grammy Awards, including Album of the Year, Record of the Year, and Song of the Year. Eilish is known for her distinctive style, haunting voice, and her advocacy for mental health awareness and environmental causes.
+		</biography>
+		<funfacts>
+			<fact>Billie Eilish was homeschooled and wrote her first song at the age of 11.</fact>
+			<fact>Her brother, Finneas O'Connell, is a key collaborator and producer for her music, helping create much of her signature sound.</fact>
+			<fact>Billie is known for her bold and unique fashion choices, often opting for oversized clothing to challenge body image stereotypes.</fact>
+			<fact>She became the youngest artist to win the "Big Four" Grammy Awards in 2020 (Album of the Year, Record of the Year, Song of the Year, and Best New Artist).</fact>
+			<fact>Billie Eilish is an outspoken advocate for climate change and has been involved in various environmental campaigns.</fact>
+		</funfacts>
+		<socials>
+			<social platform="Instagram" url="https://www.instagram.com/billieeilish/" />
+			<social platform="Twitter" url="https://twitter.com/billieeilish" />
+			<social platform="YouTube" url="https://www.youtube.com/c/BillieEilish" />
+			<social platform="Facebook" url="https://www.facebook.com/BillieEilish" />
+			<social platform="TikTok" url="https://www.tiktok.com/@billieeilish" />
+		</socials>
+		<popularity>
+			<Entry month="January" value="90" />
+			<Entry month="February" value="91" />
+			<Entry month="March" value="83" />
+			<Entry month="April" value="84" />
+			<Entry month="May" value="95" />
+			<Entry month="June" value="96" />
+			<Entry month="July" value="97" />
+			<Entry month="August" value="97" />
+			<Entry month="September" value="96" />
+			<Entry month="October" value="75" />
+			<Entry month="November" value="84" />
+			<Entry month="December" value="93" />
+		</popularity>
+    </Artist>
+    <Artist>
+        <id>6</id>
+        <name>Queen</name>
+        <urlPhoto>https://cdns-images.dzcdn.net/images/cover/1e1883d47e9e07a3b6dbf5c9249452d8/0x1900-000000-80-0-0.jpg</urlPhoto>
+        <genre>Rock</genre>
+        <urlMerchStore>https://www.queenonline.com/</urlMerchStore>
+		<biography>
+        Queen is a British rock band formed in 1970, known for their unique blend of hard rock, progressive rock, and opera-inspired compositions. The band was formed by guitarist Brian May, drummer Roger Taylor, bassist John Deacon, and iconic frontman Freddie Mercury. Queen rose to international fame with hits such as "Bohemian Rhapsody," "We Will Rock You," and "We Are the Champions." Freddie Mercury's powerful vocals, combined with the band's musical versatility and theatrical performances, helped them become one of the most successful and influential bands in history. After Mercury's death in 1991, the band continued to perform with various guest artists, including Adam Lambert in recent years.
+		</biography>
+		<funfacts>
+			<fact>Queen's song "Bohemian Rhapsody" is considered one of the greatest rock songs of all time, featuring multiple musical genres within one track.</fact>
+			<fact>Freddie Mercury's real name was Farrokh Bulsara, and he was born in Zanzibar to Parsi-Indian parents.</fact>
+			<fact>Queen was one of the first bands to produce elaborate music videos, including their iconic "Bohemian Rhapsody" video, which is considered groundbreaking.</fact>
+			<fact>Brian May, the band's guitarist, has a PhD in astrophysics, which he completed after Queen's early success.</fact>
+			<fact>Queen's song "We Will Rock You" is often used in sports events, becoming an anthem for fans worldwide.</fact>
+		</funfacts>
+		<socials>
+			<social platform="Instagram" url="https://www.instagram.com/queenwillrock/" />
+			<social platform="Twitter" url="https://twitter.com/QueenWillRock" />
+			<social platform="YouTube" url="https://www.youtube.com/c/Queen" />
+			<social platform="Facebook" url="https://www.facebook.com/Queen" />
+			<social platform="TikTok" url="https://www.tiktok.com/@queen" />
+		</socials>
+		<popularity>
+			<Entry month="January" value="98" />
+			<Entry month="February" value="89" />
+			<Entry month="March" value="98" />
+			<Entry month="April" value="97" />
+			<Entry month="May" value="95" />
+			<Entry month="June" value="76" />
+			<Entry month="July" value="97" />
+			<Entry month="August" value="68" />
+			<Entry month="September" value="97" />
+			<Entry month="October" value="88" />
+			<Entry month="November" value="99" />
+			<Entry month="December" value="100" />
+		</popularity>
+    </Artist>
+    <Artist>
+        <id>7</id>
+        <name>BLACKPINK</name>
+        <urlPhoto>https://static.posters.cz/image/1300/calendar-/blackpink-i168029.jpg</urlPhoto>
+        <genre>K-Pop</genre>
+        <urlMerchStore>https://www.blackpinkmusic.com/</urlMerchStore>
+		<biography>
+        BLACKPINK is a South Korean girl group formed by YG Entertainment in 2016. The group consists of four members: Jisoo, Jennie, Rosé, and Lisa. Known for their powerful performances and diverse music styles, BLACKPINK quickly rose to international fame, becoming one of the most successful K-pop groups in history. Their music blends genres like pop, hip hop, EDM, and R&B, with iconic songs like "DDU-DU DDU-DU," "Kill This Love," and "How You Like That." BLACKPINK made history as the first K-pop girl group to perform at Coachella and has become a global ambassador for luxury brands. Their social media following and YouTube views make them one of the most popular and influential music acts worldwide.
+		</biography>
+		<funfacts>
+			<fact>BLACKPINK’s song “DDU-DU DDU-DU” became the most viewed K-pop music video on YouTube at the time of its release.</fact>
+			<fact>The group was the first K-pop girl group to perform at Coachella, making their debut in 2019.</fact>
+			<fact>Lisa is the first non-Korean member of BLACKPINK, and she is from Thailand.</fact>
+			<fact>Jisoo is known for her visual appeal and is often called the "visual" of the group, a term in K-pop that signifies the member with the most striking looks.</fact>
+			<fact>BLACKPINK's global success helped bring K-pop into mainstream Western media, with collaborations with artists like Dua Lipa, Lady Gaga, and Selena Gomez.</fact>
+		</funfacts>
+		<socials>
+			<social platform="Instagram" url="https://www.instagram.com/blackpinkofficial/" />
+			<social platform="Twitter" url="https://twitter.com/BLACKPINK" />
+			<social platform="YouTube" url="https://www.youtube.com/c/BLACKPINK" />
+			<social platform="Facebook" url="https://www.facebook.com/BLACKPINKOFFICIAL" />
+			<social platform="TikTok" url="https://www.tiktok.com/@blackpinkofficial" />
+		</socials>
+		<popularity>
+			<Entry month="January" value="94" />
+			<Entry month="February" value="95" />
+			<Entry month="March" value="96" />
+			<Entry month="April" value="77" />
+			<Entry month="May" value="88" />
+			<Entry month="June" value="99" />
+			<Entry month="July" value="99" />
+			<Entry month="August" value="98" />
+			<Entry month="September" value="97" />
+			<Entry month="October" value="86" />
+			<Entry month="November" value="95" />
+			<Entry month="December" value="94" />
+		</popularity>
+    </Artist>
+    <Artist>
+        <id>8</id>
+        <name>Miles Davis</name>
+        <urlPhoto>https://images.squarespace-cdn.com/content/v1/54ec56d6e4b07c3f656a7f2e/1613639265323-L32CRU6XXUR42NFX37G3/Miles-Davis-Birth-Of-The-Cool-3-CREDIT-Herman-Leonard-Photography-LLC-1000.jpg?format=500w</urlPhoto>
+        <genre>Jazz</genre>
+        <urlMerchStore>https://www.milesdavis.com/</urlMerchStore>
+		<biography>
+        Miles Davis (1926–1991) was an American jazz trumpeter, composer, and bandleader. He is regarded as one of the most influential musicians of the 20th century and a pioneer of multiple jazz genres, including bebop, cool jazz, modal jazz, and jazz fusion. Davis’ innovative approach to jazz, combined with his constantly evolving sound, left a profound impact on both the genre and music as a whole. Some of his iconic albums include *Kind of Blue*, *Bitches Brew*, and *Sketches of Spain*. Davis collaborated with many notable jazz musicians, including John Coltrane, Bill Evans, and Herbie Hancock. He was known for his bold improvisations, creative reinventions, and ability to push the boundaries of jazz.
+		</biography>
+		<funfacts>
+			<fact>Miles Davis' album *Kind of Blue* (1959) is one of the best-selling jazz albums of all time and is often cited as the greatest jazz album ever recorded.</fact>
+			<fact>Davis' approach to jazz was revolutionary; his 1950s recordings helped establish the "modal" style of jazz, focusing on scales rather than chord changes.</fact>
+			<fact>He was a master of reinvention, changing his musical style with every decade. In the 1970s, Davis embraced jazz fusion, blending rock, funk, and electronic music.</fact>
+			<fact>Miles Davis played the trumpet in a way that was as much about tone and emotion as it was about technical proficiency, earning him the admiration of countless musicians.</fact>
+			<fact>Throughout his career, Davis was known for working with a variety of talented musicians, many of whom would go on to become legends in their own right, such as John Coltrane, Herbie Hancock, and Tony Williams.</fact>
+		</funfacts>
+		<socials>
+			<social platform="Instagram" url="https://www.instagram.com/milesdavis/" />
+			<social platform="Twitter" url="https://twitter.com/milesdavis" />
+			<social platform="YouTube" url="https://www.youtube.com/c/MilesDavis" />
+			<social platform="Facebook" url="https://www.facebook.com/MilesDavis" />
+			<social platform="TikTok" url="https://www.tiktok.com/@milesdavis" />
+		</socials>
+		<popularity>
+			<Entry month="January" value="84" />
+			<Entry month="February" value="85" />
+			<Entry month="March" value="86" />
+			<Entry month="April" value="87" />
+			<Entry month="May" value="88" />
+			<Entry month="June" value="89" />
+			<Entry month="July" value="90" />
+			<Entry month="August" value="91" />
+			<Entry month="September" value="90" />
+			<Entry month="October" value="89" />
+			<Entry month="November" value="88" />
+			<Entry month="December" value="87" />
+		</popularity>
+    </Artist>
+    <Artist>
+        <id>9</id>
+        <name>Coldplay</name>
+        <urlPhoto>https://i.scdn.co/image/ab6761610000e5eb1ba8fc5f5c73e7e9313cc6eb</urlPhoto>
+        <genre>Rock</genre>
+        <urlMerchStore>https://www.coldplay.com/</urlMerchStore>
+		<biography>
+        Coldplay is a British rock band formed in 1996, consisting of Chris Martin, Jonny Buckland, Guy Berryman, and Will Champion. Known for their emotive music and thought-provoking lyrics, Coldplay has become one of the world's most successful and influential bands of the 21st century. Their sound has evolved over the years, blending elements of alternative rock, pop, and electronic music. Albums like *Parachutes*, *A Rush of Blood to the Head*, and *X&Y* helped solidify their place in rock history. With hits like "Yellow," "Fix You," and "Viva La Vida," Coldplay has garnered millions of fans worldwide and continues to tour and release music.
+		</biography>
+		<funfacts>
+			<fact>Coldplay’s hit song “Viva La Vida” was inspired by the life of Napoleon Bonaparte.</fact>
+			<fact>The band’s name was suggested by a friend of Chris Martin, who had heard the word “Coldplay” as a part of an early music project.</fact>
+			<fact>Coldplay has been known for their charity work and involvement in numerous humanitarian causes, including campaigns for Amnesty International and the Global Citizen Festival.</fact>
+			<fact>The band's album *A Rush of Blood to the Head* won the Grammy Award for Best Alternative Music Album in 2003.</fact>
+			<fact>Chris Martin was married to actress Gwyneth Paltrow from 2003 to 2016, and the couple famously coined the term “conscious uncoupling” for their divorce.</fact>
+		</funfacts>
+		<socials>
+			<social platform="Instagram" url="https://www.instagram.com/coldplay/" />
+			<social platform="Twitter" url="https://twitter.com/coldplay" />
+			<social platform="YouTube" url="https://www.youtube.com/c/Coldplay" />
+			<social platform="Facebook" url="https://www.facebook.com/coldplay" />
+			<social platform="TikTok" url="https://www.tiktok.com/@coldplay" />
+		</socials>
+		<popularity>
+			<Entry month="January" value="92" />
+			<Entry month="February" value="94" />
+			<Entry month="March" value="65" />
+			<Entry month="April" value="96" />
+			<Entry month="May" value="97" />
+			<Entry month="June" value="78" />
+			<Entry month="July" value="98" />
+			<Entry month="August" value="97" />
+			<Entry month="September" value="95" />
+			<Entry month="October" value="74" />
+			<Entry month="November" value="82" />
+			<Entry month="December" value="90" />
+		</popularity>
+    </Artist>
+    <Artist>
+        <id>10</id>
+        <name>Drake</name>
+        <urlPhoto>https://people.com/thmb/SY7ryyNTpWXvSsAcfQDTYr7qDMY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(999x438:1001x440)/drake-2000-c8ebcb71537645499d3d16862ea8e49b.jpg</urlPhoto>
+        <genre>Hip-Hop</genre>
+        <urlMerchStore>https://drakerelated.com/rooms/studio</urlMerchStore>
+		<biography>
+        Drake, born Aubrey Drake Graham on October 24, 1986, in Toronto, Canada, is a globally renowned rapper, singer, songwriter, and actor. Initially gaining fame for his role as Jimmy Brooks on the teen drama *Degrassi: The Next Generation*, Drake transitioned into music in the late 2000s. His breakthrough mixtape, *So Far Gone*, led to mainstream success with hit singles like "Best I Ever Had" and "Successful." Over the years, Drake has become one of the most influential figures in hip hop and contemporary music. Known for his emotional, introspective lyrics and versatile style, he has released numerous chart-topping albums such as *Take Care*, *Nothing Was the Same*, and *Scorpion*. Drake has earned countless awards, including Grammy Awards, and is recognized for his impact on rap and popular music.
+		</biography>
+		<funfacts>
+			<fact>Drake’s album *Views* (2016) spent 13 weeks at #1 on the Billboard 200, making it one of the longest-running albums at the top spot in the 21st century.</fact>
+			<fact>He holds several Guinness World Records, including the record for the most-charted songs by a solo artist on the Billboard Hot 100.</fact>
+			<fact>Drake’s hit song “Hotline Bling” became an internet meme, leading to viral dance videos and remixes.</fact>
+			<fact>Before his music career, Drake was a cast member on *Degrassi: The Next Generation*, playing Jimmy Brooks, a character who is left wheelchair-bound after a school shooting.</fact>
+			<fact>Drake is also known for his philanthropic efforts, including his annual *Drake Night* charity event and his donations to various causes such as education and homelessness in Toronto.</fact>
+		</funfacts>
+		<socials>
+			<social platform="Instagram" url="https://www.instagram.com/drake/" />
+			<social platform="Twitter" url="https://twitter.com/drake" />
+			<social platform="YouTube" url="https://www.youtube.com/user/DrakeVEVO" />
+			<social platform="Facebook" url="https://www.facebook.com/drake" />
+			<social platform="TikTok" url="https://www.tiktok.com/@drake" />
+		</socials>
+		<popularity>
+			<Entry month="January" value="94" />
+			<Entry month="February" value="96" />
+			<Entry month="March" value="67" />
+			<Entry month="April" value="98" />
+			<Entry month="May" value="97" />
+			<Entry month="June" value="98" />
+			<Entry month="July" value="99" />
+			<Entry month="August" value="88" />
+			<Entry month="September" value="96" />
+			<Entry month="October" value="95" />
+			<Entry month="November" value="74" />
+			<Entry month="December" value="93" />
+		</popularity>
+    </Artist>
+    <Artist>
+        <id>11</id>
+        <name>The Beatles</name>
+        <urlPhoto>https://people.com/thmb/GEMT5hOHPAnXPDfA3Bh1U2NuDJE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(999x0:1001x2)/the-beetles-1-1a971bd703a849268568fcf20bee9fe1.jpg</urlPhoto>
+        <genre>Rock</genre>
+        <urlMerchStore>https://www.thebeatles.com/</urlMerchStore>
+		<biography>
+        The Beatles were an English rock band formed in Liverpool in 1960, consisting of John Lennon, Paul McCartney, George Harrison, and Ringo Starr. Widely regarded as one of the greatest and most influential bands in the history of music, The Beatles revolutionized the music industry and became the central figures of the 1960s cultural movement. Their albums, such as *Sgt. Pepper’s Lonely Hearts Club Band*, *Revolver*, and *The White Album*, pushed the boundaries of popular music. Known for their harmony, musical innovation, and songwriting skills, The Beatles produced some of the most iconic songs in history, including "Hey Jude," "Let It Be," and "Yesterday." Despite disbanding in 1970, their music continues to inspire generations of musicians and fans around the world.
+		</biography>
+		<funfacts>
+			<fact>The Beatles' first single, "Love Me Do," was released in 1962 and marked the beginning of their incredible success.</fact>
+			<fact>In 1964, The Beatles appeared on *The Ed Sullivan Show*, a performance watched by over 70 million Americans, marking the beginning of the "British Invasion" in the United States.</fact>
+			<fact>Despite their immense popularity, the band never performed live together after 1966, focusing solely on studio recordings after that year.</fact>
+			<fact>John Lennon and Paul McCartney wrote the vast majority of The Beatles' songs, with their partnership becoming one of the most successful songwriting duos in music history.</fact>
+			<fact>After their break-up in 1970, each member went on to have a successful solo career, with notable achievements from John Lennon’s activism, Paul McCartney’s musical endeavors, George Harrison’s solo work, and Ringo Starr’s contributions to rock music and acting.</fact>
+		</funfacts>
+		<socials>
+			<social platform="Instagram" url="https://www.instagram.com/thebeatles/" />
+			<social platform="Twitter" url="https://twitter.com/thebeatles" />
+			<social platform="YouTube" url="https://www.youtube.com/c/TheBeatles" />
+			<social platform="Facebook" url="https://www.facebook.com/thebeatles" />
+			<social platform="TikTok" url="https://www.tiktok.com/@thebeatles" />
+		</socials>
+		<popularity>
+			<Entry month="January" value="97" />
+			<Entry month="February" value="88" />
+			<Entry month="March" value="99" />
+			<Entry month="April" value="100" />
+			<Entry month="May" value="69" />
+			<Entry month="June" value="58" />
+			<Entry month="July" value="98" />
+			<Entry month="August" value="97" />
+			<Entry month="September" value="95" />
+			<Entry month="October" value="94" />
+			<Entry month="November" value="75" />
+			<Entry month="December" value="96" />
+		</popularity>
+    </Artist>
+    <Artist>
+        <id>12</id>
+        <name>Ariana Grande</name>
+        <urlPhoto>https://www.billboard.com/wp-content/uploads/2022/08/Ariana-Grande-the-voice-2021-billboard-1548.jpg?w=1024</urlPhoto>
+        <genre>Pop</genre>
+        <urlMerchStore>https://www.arianagrande.com/</urlMerchStore>
+		<biography>
+        Ariana Grande is an American singer, songwriter, and actress, born on June 26, 1993, in Boca Raton, Florida. She began her career as a child actor in the Broadway musical *13* and later gained prominence for her role as Cat Valentine on the Nickelodeon TV series *Victorious*. However, her true rise to fame came through her music career. With her powerful, wide-ranging voice, Grande released her debut album *Yours Truly* in 2013, which included the hit single "The Way." She continued to release successful albums like *My Everything*, *Dangerous Woman*, *Sweetener*, *Thank U, Next*, and *Positions*. Ariana has won numerous awards, including Grammy Awards, and is recognized for her influence in both pop and R&B music. She has also become an advocate for mental health awareness and equality.
+		</biography>
+		<funfacts>
+			<fact>Ariana Grande has a 4-octave vocal range, often compared to that of Mariah Carey.</fact>
+			<fact>She was a big fan of *Harry Potter* growing up and has a tattoo that reads “always” on her neck, a reference to the series.</fact>
+			<fact>Grande’s single "Problem" became one of her biggest hits, featuring Iggy Azalea and reaching the top of the charts in multiple countries.</fact>
+			<fact>Ariana has had multiple chart-topping songs, including "No Tears Left to Cry," "Thank U, Next," and "7 Rings."</fact>
+			<fact>Aside from music, Ariana is a passionate philanthropist, working on causes such as animal rights, mental health, and LGBTQ+ rights.</fact>
+		</funfacts>
+		<socials>
+			<social platform="Instagram" url="https://www.instagram.com/arianagrande/" />
+			<social platform="Twitter" url="https://twitter.com/arianagrande" />
+			<social platform="YouTube" url="https://www.youtube.com/user/arianagrande" />
+			<social platform="Facebook" url="https://www.facebook.com/arianagrande" />
+			<social platform="TikTok" url="https://www.tiktok.com/@arianagrande" />
+		</socials>
+		<popularity>
+			<Entry month="January" value="90" />
+			<Entry month="February" value="92" />
+			<Entry month="March" value="94" />
+			<Entry month="April" value="66" />
+			<Entry month="May" value="85" />
+			<Entry month="June" value="97" />
+			<Entry month="July" value="98" />
+			<Entry month="August" value="97" />
+			<Entry month="September" value="96" />
+			<Entry month="October" value="75" />
+			<Entry month="November" value="94" />
+			<Entry month="December" value="95" />
+		</popularity>
+    </Artist>
+    <Artist>
+        <id>13</id>
+        <name>Metallica</name>
+        <urlPhoto>https://m.media-amazon.com/images/M/MV5BYWQxMDc3MDYtYjgyMi00ZmViLTk1NjUtNWQ5YTY1MDRmMjc3XkEyXkFqcGc@._V1_.jpg</urlPhoto>
+        <genre>Metal</genre>
+        <urlMerchStore>https://www.metallica.com/</urlMerchStore>
+		<biography>
+        Metallica is an American heavy metal band formed in Los Angeles, California, in 1981 by drummer Lars Ulrich and guitarist/vocalist James Hetfield. The band's fast tempos, aggressive guitar riffs, and socially conscious lyrics helped define the thrash metal genre. With over 125 million records sold worldwide, Metallica is one of the best-selling music artists in the world. Their groundbreaking albums, such as *Master of Puppets*, *Ride the Lightning*, *Metallica* (The Black Album), and *...And Justice for All*, are considered among the greatest heavy metal albums of all time. Metallica's influence on the music industry, especially in the realm of metal, is immeasurable, and their live performances are legendary. Despite numerous lineup changes over the years, the band's core members, Ulrich and Hetfield, have remained constants in Metallica's iconic sound.
+		</biography>
+		<funfacts>
+			<fact>Metallica's *The Black Album* (1991) has sold over 16 million copies in the U.S. alone, making it one of the best-selling albums of all time.</fact>
+			<fact>The band is known for its intense live shows, and they were the first to perform in Antarctica in 2013, playing for a small group of fans.</fact>
+			<fact>Metallica's 1991 hit "Enter Sandman" is one of their most famous songs, and it remains a staple in their live performances.</fact>
+			<fact>The band was inducted into the Rock and Roll Hall of Fame in 2009, solidifying their status as one of the greatest rock bands of all time.</fact>
+			<fact>Metallica has ventured into film with *Metallica: Through the Never* (2013), a concert film that blends live performances with a fictional storyline.</fact>
+		</funfacts>
+		<socials>
+			<social platform="Instagram" url="https://www.instagram.com/metallica/" />
+			<social platform="Twitter" url="https://twitter.com/metallica" />
+			<social platform="YouTube" url="https://www.youtube.com/user/metallica" />
+			<social platform="Facebook" url="https://www.facebook.com/metallica" />
+			<social platform="TikTok" url="https://www.tiktok.com/@metallica" />
+		</socials>
+		<popularity>
+			<Entry month="January" value="92" />
+			<Entry month="February" value="94" />
+			<Entry month="March" value="95" />
+			<Entry month="April" value="96" />
+			<Entry month="May" value="77" />
+			<Entry month="June" value="98" />
+			<Entry month="July" value="99" />
+			<Entry month="August" value="98" />
+			<Entry month="September" value="97" />
+			<Entry month="October" value="86" />
+			<Entry month="November" value="95" />
+			<Entry month="December" value="94" />
+		</popularity>
+    </Artist>
+    <Artist>
+        <id>14</id>
+        <name>Jay-Z</name>
+        <urlPhoto>https://upload.wikimedia.org/wikipedia/commons/9/9c/Jay-Z_%40_Shawn_%27Jay-Z%27_Carter_Foundation_Carnival_%28crop_2%29.jpg</urlPhoto>
+        <genre>Hip-Hop</genre>
+        <urlMerchStore>https://www.rocnation.com/music/jay-z/</urlMerchStore>
+		<biography>
+        Jay-Z, born Shawn Corey Carter on December 4, 1969, in Brooklyn, New York, is an American rapper, entrepreneur, and music mogul. He is widely regarded as one of the greatest rappers of all time and is considered a key figure in the rise of hip hop in the late 1990s and 2000s. Jay-Z's debut album, *Reasonable Doubt* (1996), established him as a prominent figure in the rap game. Over the years, he released critically acclaimed albums such as *The Blueprint*, *The Black Album*, *American Gangster*, and *4:44*. He is known for his exceptional lyricism, storytelling, and influence in both music and culture. Beyond his music career, Jay-Z is a successful businessman with interests in fashion, sports, and media. He co-founded Roc-A-Fella Records and later became the owner of the streaming service Tidal. Jay-Z is married to singer Beyoncé, and together, they form one of the most influential power couples in entertainment.
+		</biography>
+		<funfacts>
+			<fact>Jay-Z is one of the wealthiest musicians in the world, with a net worth estimated at over $1 billion.</fact>
+			<fact>He was the first rapper inducted into the Songwriters Hall of Fame in 2017.</fact>
+			<fact>Jay-Z's collaboration with Linkin Park on *Numb/Encore* was a massive success, leading to a Grammy Award win.</fact>
+			<fact>He was involved in the creation of the clothing line Rocawear, which he later sold for over $200 million.</fact>
+			<fact>Jay-Z is a vocal advocate for criminal justice reform and has used his platform to bring attention to social justice issues.</fact>
+		</funfacts>
+		<socials>
+			<social platform="Instagram" url="https://www.instagram.com/jayz/" />
+			<social platform="Twitter" url="https://twitter.com/S_C_">
+			<social platform="YouTube" url="https://www.youtube.com/channel/UCO1J6c5I9-L88pB2MXeJrbA" />
+			<social platform="Facebook" url="https://www.facebook.com/jayz" />
+			<social platform="TikTok" url="https://www.tiktok.com/@jayz" />
+		</socials>
+		<popularity>
+			<Entry month="January" value="90" />
+			<Entry month="February" value="92" />
+			<Entry month="March" value="64" />
+			<Entry month="April" value="96" />
+			<Entry month="May" value="95" />
+			<Entry month="June" value="97" />
+			<Entry month="July" value="78" />
+			<Entry month="August" value="97" />
+			<Entry month="September" value="86" />
+			<Entry month="October" value="95" />
+			<Entry month="November" value="94" />
+			<Entry month="December" value="93" />
+		</popularity>
+    </Artist>
+    <Artist>
+        <id>15</id>
+        <name>Sabrina Carpenter</name>
+        <urlPhoto>https://assets.teenvogue.com/photos/6688212c58bd36a00ee7befc/16:9/w_2560%2Cc_limit/2158757579</urlPhoto>
+        <genre>Pop</genre>
+        <urlMerchStore>https://www.sabrinacarpenter.com/</urlMerchStore>
+		<biography>
+        Sabrina Carpenter is an American singer, songwriter, and actress, born on May 11, 1999, in Lehigh Valley, Pennsylvania. She began her career at a young age, appearing in various TV shows and films, but she is best known for her role as Maya Hart on the Disney Channel's *Girl Meets World*. Sabrina transitioned to music with her debut album *Eyes Wide Open* in 2015, showcasing her pop and indie influences. She has since released several successful albums, including *EVOLution* and *Singular Act I* and *Singular Act II*. Known for her unique blend of pop, indie, and folk styles, Sabrina has garnered a dedicated fanbase and critical acclaim. She is also an advocate for mental health and has used her platform to raise awareness about important social issues.
+		</biography>
+		<funfacts>
+			<fact>Sabrina Carpenter made her acting debut at age 12 in the Disney Channel series *Girl Meets World*.</fact>
+			<fact>Aside from her acting and singing, Sabrina is passionate about art and often shares her own illustrations on social media.</fact>
+			<fact>Her song "Thumbs" from the *Singular* album is one of her most popular tracks, reflecting her personal growth and experiences.</fact>
+			<fact>In 2020, she was recognized as one of the "30 Under 30" by Forbes, due to her achievements in both music and acting.</fact>
+			<fact>Sabrina is also a talented dancer and often incorporates dance routines in her music videos and live performances.</fact>
+		</funfacts>
+		<socials>
+			<social platform="Instagram" url="https://www.instagram.com/sabrinacarpenter/" />
+			<social platform="Twitter" url="https://twitter.com/sabcarpenter" />
+			<social platform="YouTube" url="https://www.youtube.com/user/SabrinaCarpenter" />
+			<social platform="Facebook" url="https://www.facebook.com/SabrinaCarpenter/" />
+			<social platform="TikTok" url="https://www.tiktok.com/@sabrinacarpenter" />
+		</socials>
+		<popularity>
+			<Entry month="January" value="80" />
+			<Entry month="February" value="82" />
+			<Entry month="March" value="85" />
+			<Entry month="April" value="66" />
+			<Entry month="May" value="78" />
+			<Entry month="June" value="89" />
+			<Entry month="July" value="90" />
+			<Entry month="August" value="91" />
+			<Entry month="September" value="89" />
+			<Entry month="October" value="88" />
+			<Entry month="November" value="87" />
+			<Entry month="December" value="86" />
+		</popularity>
+    </Artist>
+    <Artist>
+        <id>16</id>
+        <name>Lady Gaga</name>
+        <urlPhoto>https://media.them.us/photos/663bc34e344e5d57d900f2ee/2:3/w_944,h_1416,c_limit/lady-gaga.jpg</urlPhoto>
+        <genre>Pop</genre>
+        <urlMerchStore>https://www.ladygaga.com/</urlMerchStore>
+		<biography>
+        Lady Gaga, born Stefani Joanne Angelina Germanotta on March 28, 1986, in New York City, is an American singer, songwriter, and actress. She first gained fame with her debut album *The Fame* (2008), which included hits like "Just Dance" and "Poker Face." Known for her eclectic musical style and bold fashion choices, Lady Gaga has become one of the most influential pop artists of the 21st century. Her follow-up albums *The Fame Monster*, *Born This Way*, *ARTPOP*, and *Joanne* pushed musical boundaries and addressed themes of identity, mental health, and self-expression. Apart from her music career, Lady Gaga has made a significant impact in film with her Oscar-nominated role in *A Star Is Born* (2018). A vocal advocate for LGBTQ+ rights and mental health awareness, she has used her platform to inspire positive change. 
+		</biography>
+		<funfacts>
+			<fact>Lady Gaga's real name, Stefani Germanotta, was inspired by the Queen song "Radio Ga Ga."</fact>
+			<fact>She is the first female artist to have four number-one albums on the Billboard 200 in the 2010s.</fact>
+			<fact>Her 2010 MTV Video Music Awards performance of "Paparazzi" is considered one of the most iconic in history.</fact>
+			<fact>Lady Gaga won an Oscar for Best Original Song in 2019 for "Shallow" from *A Star Is Born*.</fact>
+			<fact>She is a passionate activist for mental health awareness and co-founded the *Born This Way Foundation* to support mental well-being and empower youth.</fact>
+		</funfacts>
+		<socials>
+			<social platform="Instagram" url="https://www.instagram.com/ladygaga/" />
+			<social platform="Twitter" url="https://twitter.com/ladygaga" />
+			<social platform="YouTube" url="https://www.youtube.com/user/ladygaga" />
+			<social platform="Facebook" url="https://www.facebook.com/ladygaga/" />
+			<social platform="TikTok" url="https://www.tiktok.com/@ladygaga" />
+		</socials>
+		<popularity>
+			<Entry month="January" value="92" />
+			<Entry month="February" value="94" />
+			<Entry month="March" value="95" />
+			<Entry month="April" value="97" />
+			<Entry month="May" value="98" />
+			<Entry month="June" value="97" />
+			<Entry month="July" value="96" />
+			<Entry month="August" value="95" />
+			<Entry month="September" value="94" />
+			<Entry month="October" value="93" />
+			<Entry month="November" value="92" />
+			<Entry month="December" value="91" />
+		</popularity>
+    </Artist>
+    <Artist>
+        <id>17</id>
+        <name>Slipknot</name>
+        <urlPhoto>https://i.scdn.co/image/ab6761610000e5ebd0cdb283a7384a0edb665182</urlPhoto>
+        <genre>Metal</genre>
+        <urlMerchStore>https://slipknot1.com/</urlMerchStore>
+		<biography>
+        Slipknot is an American heavy metal band formed in Des Moines, Iowa, in 1995. Known for their aggressive, chaotic musical style, and distinctive image featuring matching jumpsuits and masks, Slipknot quickly gained popularity in the late 1990s and early 2000s. Their self-titled debut album *Slipknot* (1999) and its follow-up *Iowa* (2001) established the band as pioneers of the nu-metal genre. Over the years, Slipknot has evolved musically, incorporating elements of death metal, thrash, and industrial music. Albums such as *Vol. 3: (The Subliminal Verses)*, *All Hope Is Gone*, and *.5: The Gray Chapter* solidified their place in heavy metal history. Despite facing significant lineup changes, including the tragic loss of bassist Paul Gray and drummer Joey Jordison, the band has continued to release successful albums and remain at the forefront of heavy metal. Their intense live performances, powerful sound, and unique approach to music have earned them a dedicated fanbase worldwide.
+		</biography>
+		<funfacts>
+			<fact>Slipknot is known for wearing matching jumpsuits and custom masks during their performances, a trademark that sets them apart from other metal bands.</fact>
+			<fact>The band has a total of nine members, which is unusual for a metal band, and includes percussionists and multiple guitarists.</fact>
+			<fact>Slipknot's music often explores themes of anger, alienation, and personal trauma, resonating with many fans of the heavy metal genre.</fact>
+			<fact>The band won a Grammy Award for Best Metal Performance in 2005 for their song "Before I Forget."</fact>
+			<fact>Slipknot's live performances are known for their intensity, with members engaging in wild onstage antics that often include crowd surfing, headbanging, and throwing themselves into the audience.</fact>
+		</funfacts>
+		<socials>
+			<social platform="Instagram" url="https://www.instagram.com/slipknot/" />
+			<social platform="Twitter" url="https://twitter.com/slipknot" />
+			<social platform="YouTube" url="https://www.youtube.com/user/slipknot" />
+			<social platform="Facebook" url="https://www.facebook.com/slipknot/" />
+			<social platform="TikTok" url="https://www.tiktok.com/@slipknot" />
+		</socials>
+		<popularity>
+			<Entry month="January" value="91" />
+			<Entry month="February" value="92" />
+			<Entry month="March" value="93" />
+			<Entry month="April" value="64" />
+			<Entry month="May" value="96" />
+			<Entry month="June" value="85" />
+			<Entry month="July" value="94" />
+			<Entry month="August" value="73" />
+			<Entry month="September" value="92" />
+			<Entry month="October" value="91" />
+			<Entry month="November" value="90" />
+			<Entry month="December" value="89" />
+		</popularity>
+    </Artist>
+    <Artist>
+        <id>18</id>
+        <name>Frank Sinatra</name>
+        <urlPhoto>https://d3i6fh83elv35t.cloudfront.net/newshour/app/uploads/2015/12/GettyImages-85339538-1024x889.jpg</urlPhoto>
+        <genre>Jazz</genre>
+        <urlMerchStore>https://www.sinatra.com/</urlMerchStore>
+		<biography>
+        Frank Sinatra, born December 12, 1915, in Hoboken, New Jersey, was one of the most influential and iconic American singers of the 20th century. Known for his smooth voice, impeccable phrasing, and remarkable vocal control, Sinatra became a pop culture legend and a pivotal figure in the music industry. His career spanned over five decades, beginning as a crooner in the 1940s with the Harry James and Tommy Dorsey orchestras. Sinatra went on to achieve solo success with hits like "My Way," "New York, New York," "Strangers in the Night," and "Fly Me to the Moon." His albums such as *Songs for Swingin' Lovers!*, *Frank Sinatra Sings for Only the Lonely*, and *Come Fly with Me* are considered classics of American music. Beyond his musical achievements, Sinatra was also an actor, winning an Academy Award for his role in *From Here to Eternity* (1953). His connection to Hollywood, friendships with major stars, and influence on the Rat Pack cemented his place in American entertainment history. Sinatra's legacy endures through his timeless music and cultural impact.
+		</biography>
+		<funfacts>
+			<fact>Sinatra was known as "The Chairman of the Board" due to his influential role in the entertainment industry.</fact>
+			<fact>He was awarded nine Grammy Awards, including the Grammy Lifetime Achievement Award.</fact>
+			<fact>Sinatra was a passionate philanthropist and supported various charitable causes throughout his life.</fact>
+			<fact>He was a close friend of President John F. Kennedy and was a supporter of his political campaign.</fact>
+			<fact>Sinatra's influence went beyond music — he was a significant figure in both Hollywood and American pop culture, often regarded as a fashion icon of his era.</fact>
+		</funfacts>
+		<socials>
+			<social platform="Instagram" url="https://www.instagram.com/franksinatramusic/" />
+			<social platform="Twitter" url="https://twitter.com/Frank_Sinatra" />
+			<social platform="YouTube" url="https://www.youtube.com/user/FrankSinatra" />
+			<social platform="Facebook" url="https://www.facebook.com/FrankSinatra/" />
+			<social platform="TikTok" url="https://www.tiktok.com/@franksinatra" />
+		</socials>
+		<popularity>
+			<Entry month="January" value="85" />
+			<Entry month="February" value="87" />
+			<Entry month="March" value="89" />
+			<Entry month="April" value="90" />
+			<Entry month="May" value="82" />
+			<Entry month="June" value="91" />
+			<Entry month="July" value="80" />
+			<Entry month="August" value="91" />
+			<Entry month="September" value="92" />
+			<Entry month="October" value="63" />
+			<Entry month="November" value="74" />
+			<Entry month="December" value="95" />
+		</popularity>
+    </Artist>
+    <Artist>
+        <id>19</id>
+        <name>Evanescence</name>
+        <urlPhoto>https://cdn-p.smehost.net/sites/005297e5d91d4996984e966fac4389ea/wp-content/uploads/2020/02/Evanescence-WEB.jpg</urlPhoto>
+        <genre>Rock</genre>
+        <urlMerchStore>https://www.evanescence.com/home/</urlMerchStore>
+		<biography>
+        Evanescence is an American rock band formed by singer/pianist Amy Lee and guitarist Ben Moody in Little Rock, Arkansas, in 1995. The band's style combines elements of gothic rock, nu-metal, and symphonic metal, with a distinctive sound driven by Lee’s powerful vocals and emotional lyrics. Their debut album, *Fallen* (2003), became one of the best-selling albums of the 21st century, with hits like "My Immortal," "Going Under," and "Bring Me to Life." The album earned the band two Grammy Awards, including Best Hard Rock Performance. Evanescence’s blend of orchestral arrangements, dark melodies, and alternative rock made them a major influence on the rock and metal scenes. The band's follow-up albums, including *The Open Door* (2006), *Evanescence* (2011), and *Synthesis* (2017), saw a continued evolution of their sound, incorporating more classical and electronic elements. Despite multiple lineup changes, Amy Lee has remained the driving force behind Evanescence’s music, and the band continues to enjoy a devoted fanbase and critical acclaim.
+		</biography>
+		<funfacts>
+			<fact>The band's breakthrough album *Fallen* has sold over 17 million copies worldwide, making it one of the best-selling albums of all time.</fact>
+			<fact>Amy Lee is classically trained in piano and used her training to bring a unique orchestral touch to Evanescence’s sound.</fact>
+			<fact>Evanescence is known for their fusion of rock, metal, and orchestral music, creating a distinctive sound that has influenced the gothic and symphonic metal genres.</fact>
+			<fact>The song "My Immortal" was originally written by Amy Lee when she was just a teenager and has since become one of the band's most iconic tracks.</fact>
+			<fact>The band has gone through several lineup changes, but Amy Lee has remained the constant member, shaping the band's evolving musical direction.</fact>
+		</funfacts>
+		<socials>
+			<social platform="Instagram" url="https://www.instagram.com/evanescence/" />
+			<social platform="Twitter" url="https://twitter.com/evanescence" />
+			<social platform="YouTube" url="https://www.youtube.com/user/evanescence" />
+			<social platform="Facebook" url="https://www.facebook.com/Evanescence" />
+			<social platform="TikTok" url="https://www.tiktok.com/@evanescence" />
+		</socials>
+		<popularity>
+			<Entry month="January" value="88" />
+			<Entry month="February" value="90" />
+			<Entry month="March" value="91" />
+			<Entry month="April" value="62" />
+			<Entry month="May" value="94" />
+			<Entry month="June" value="83" />
+			<Entry month="July" value="92" />
+			<Entry month="August" value="91" />
+			<Entry month="September" value="73" />
+			<Entry month="October" value="94" />
+			<Entry month="November" value="95" />
+			<Entry month="December" value="96" />
+		</popularity>
+    </Artist>
+    <Artist>
+        <id>20</id>
+        <name>Ed Sheeran</name>
+        <urlPhoto>https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Ed_Sheeran-6886_%28cropped%29.jpg/1200px-Ed_Sheeran-6886_%28cropped%29.jpg</urlPhoto>
+        <genre>Pop</genre>
+        <urlMerchStore>https://www.edsheeran.com/</urlMerchStore>
+		<biography>
+        Ed Sheeran is an English singer-songwriter and musician known for his heartfelt lyrics and acoustic style, combining elements of pop, folk, and R&B. Born in Halifax, West Yorkshire, Sheeran began his career by releasing independent EPs and performing in small venues. He gained international fame with his debut album, *+ (Plus)*, in 2011, featuring hits like "The A Team" and "Lego House." His subsequent albums, *x (Multiply)* (2014), *÷ (Divide)* (2017), and *= (Equals)* (2021), solidified his place as one of the best-selling music artists in the world, with hits such as "Shape of You," "Thinking Out Loud," and "Perfect." Sheeran's honest storytelling, emotive songwriting, and dynamic live performances have earned him multiple awards, including several Grammy Awards. Known for his use of a loop pedal in live performances, he has captivated audiences globally, maintaining a unique place in modern pop music.
+		</biography>
+		<funfacts>
+			<fact>Ed Sheeran’s album *÷ (Divide)* became the fastest-selling album by a male artist in the UK, with singles like "Shape of You" topping charts worldwide.</fact>
+			<fact>Sheeran's song "Thinking Out Loud" won the Grammy for Song of the Year in 2016 and has since become a popular wedding song.</fact>
+			<fact>Ed Sheeran famously uses a loop pedal during his live shows, creating multiple layers of sound without a full backing band.</fact>
+			<fact>He was named Spotify’s most-streamed artist of the 2010s decade, with "Shape of You" becoming one of the platform’s most-streamed songs ever.</fact>
+			<fact>Ed Sheeran is close friends with singer-songwriter Taylor Swift and has collaborated with her on several projects, including the song "Everything Has Changed."</fact>
+		</funfacts>
+		<socials>
+			<social platform="Instagram" url="https://www.instagram.com/teddysphotos/" />
+			<social platform="Twitter" url="https://twitter.com/edsheeran" />
+			<social platform="YouTube" url="https://www.youtube.com/user/edsheeran" />
+			<social platform="Facebook" url="https://www.facebook.com/EdSheeranMusic" />
+			<social platform="TikTok" url="https://www.tiktok.com/@edsheeran" />
+		</socials>
+		<popularity>
+			<Entry month="January" value="95" />
+			<Entry month="February" value="92" />
+			<Entry month="March" value="93" />
+			<Entry month="April" value="90" />
+			<Entry month="May" value="96" />
+			<Entry month="June" value="89" />
+			<Entry month="July" value="94" />
+			<Entry month="August" value="92" />
+			<Entry month="September" value="91" />
+			<Entry month="October" value="94" />
+			<Entry month="November" value="96" />
+			<Entry month="December" value="97" />
+		</popularity>
+    </Artist>
+</Artists>
