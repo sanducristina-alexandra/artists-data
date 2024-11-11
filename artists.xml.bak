@@ -93,7 +93,7 @@
         <urlPhoto>https://i.scdn.co/image/ab6761610000e5eb1ba8fc5f5c73e7e9313cc6eb</urlPhoto>
         <genre>Rock</genre>
         <urlMerchStore>https://www.coldplay.com/</urlMerchStore>
-	<biography>Coldplay is a British rock band formed in 1996, consisting of Chris Martin, Jonny Buckland, Guy Berryman, and Will Champion. Known for their emotive music and thought-provoking lyrics, Coldplay has become one of the world's most successful and influential bands of the 21st century. Their sound has evolved over the years, blending elements of alternative rock, pop, and electronic music. Albums like *Parachutes*, *A Rush of Blood to the Head*, and *X&Y* helped solidify their place in rock history. With hits like "Yellow," "Fix You," and "Viva La Vida," Coldplay has garnered millions of fans worldwide and continues to tour and release music.</biography>
+	<biography>Coldplay is a British rock band formed in 1996, consisting of Chris Martin, Jonny Buckland, Guy Berryman, and Will Champion. Known for their emotive music and thought-provoking lyrics, Coldplay has become one of the world's most successful and influential bands of the 21st century. Their sound has evolved over the years, blending elements of alternative rock, pop, and electronic music. Albums like *Parachutes*, *A Rush of Blood to the Head* helped solidify their place in rock history. With hits like "Yellow," "Fix You," and "Viva La Vida," Coldplay has garnered millions of fans worldwide and continues to tour and release music.</biography>
 	<funfacts>Chris Martin was married to actress Gwyneth Paltrow from 2003 to 2016, and the couple famously coined the term “conscious uncoupling” for their divorce.</funfacts>
 	<socials>Instagram:https://www.instagram.com/coldplay/ Twitter:https://twitter.com/coldplay YouTube:https://www.youtube.com/c/Coldplay Facebook:https://www.facebook.com/coldplay TikTok:https://www.tiktok.com/@coldplay</socials>
 	<popularity>92 94 65 96 97 78 98 97 95 74 82 90</popularity>
@@ -108,17 +108,6 @@
 	<funfacts>Drake is also known for his philanthropic efforts, including his annual *Drake Night* charity event and his donations to various causes such as education and homelessness in Toronto.</funfacts>
 	<socials>Instagram:https://www.instagram.com/drake/ Twitter:https://twitter.com/drake YouTube:https://www.youtube.com/user/DrakeVEVO Facebook:https://www.facebook.com/drake TikTok:https://www.tiktok.com/@drake</socials>
 	<popularity>94 96 67 98 97 98 99 88 96 95 74 93</popularity>
-    </Artist>
-    <Artist>
-        <id>11</id>
-        <name>The Beatles</name>
-        <urlPhoto>https://people.com/thmb/GEMT5hOHPAnXPDfA3Bh1U2NuDJE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(999x0:1001x2)/the-beetles-1-1a971bd703a849268568fcf20bee9fe1.jpg</urlPhoto>
-        <genre>Rock</genre>
-        <urlMerchStore>https://www.thebeatles.com/</urlMerchStore>
-	<biography>The Beatles were an English rock band formed in Liverpool in 1960, consisting of John Lennon, Paul McCartney, George Harrison, and Ringo Starr. Widely regarded as one of the greatest and most influential bands in the history of music, The Beatles revolutionized the music industry and became the central figures of the 1960s cultural movement. Their albums, such as *Sgt. Pepper’s Lonely Hearts Club Band*, *Revolver*, and *The White Album*, pushed the boundaries of popular music. Known for their harmony, musical innovation, and songwriting skills, The Beatles produced some of the most iconic songs in history, including "Hey Jude," "Let It Be," and "Yesterday." Despite disbanding in 1970, their music continues to inspire generations of musicians and fans around the world.</biography>
-	<funfacts>After their break-up in 1970, each member went on to have a successful solo career, with notable achievements from John Lennon’s activism, Paul McCartney’s musical endeavors, George Harrison’s solo work, and Ringo Starr’s contributions to rock music and acting.</funfacts>
-	<socials>Instagram:https://www.instagram.com/thebeatles/ YouTube:https://www.youtube.com/c/TheBeatles Facebook:https://www.facebook.com/thebeatles TikTok:https://www.tiktok.com/@thebeatles</socials>
-	<popularity>97 88 99 100 69 58 98 97 95 94 75 96</popularity>
     </Artist>
     <Artist>
         <id>11</id>
